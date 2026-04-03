@@ -6,7 +6,17 @@ It lives here:  https://sample-tracker.dataportal.als.lbl.gov/
 
 A test version you can mess around in lives here:  https://sample-tracker.dataportal-staging.als.lbl.gov/
 
-## Visiting scientists
+## How/why would I use this thing?
+
+### You do this:
+
+<img src="scenario_phase_1.png" />
+
+### So you can do this:
+
+<img src="scenario_phase_2.png" />
+
+## As a visiting scientist
 
 You can organize samples in groups, and enter scan parameters and other metadata for them.
 
@@ -20,7 +30,7 @@ You can also download the data you entered, as a JSON-format file:
 
 <img src="download_as_json.png" />
 
-## Beamline managers
+## As a beamline manager
 
 If you're registered by the User Office as the manager of a beamline, you can edit the Parameters and Scan Types for it, defining what data the users are required to enter per sample:
 
